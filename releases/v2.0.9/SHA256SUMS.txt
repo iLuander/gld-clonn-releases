@@ -1,0 +1,3 @@
+a9b84eaf03b10ddf91f04d1f8d59b42ec59c11b855893bd1686bb34654b9b76a  GLDCLONN-Setup-2.0.9.exe
+24fce3f2dc720130f061dde6e6761a70c7144a7f1adba50f4294a8d03029f2e8  GLDCLONN-Setup-2.0.9.exe.blockmap
+30f01c5aba193961d7d1dea448dfa9d206fc8cc89fbe635aaaee5fd274d98d50  latest.yml
