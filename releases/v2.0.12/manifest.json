@@ -1,0 +1,12 @@
+{
+  "version": "2.0.12",
+  "tag": "v2.0.12",
+  "product": "GLDCLONN",
+  "generatedAt": "2026-05-17T18:49:37.520Z",
+  "artifacts": [
+    "GLDCLONN-Setup-2.0.12.exe",
+    "GLDCLONN-Setup-2.0.12.exe.blockmap",
+    "latest.yml",
+    "SHA256SUMS.txt"
+  ]
+}
